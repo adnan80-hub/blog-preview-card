@@ -7,7 +7,7 @@ body {
     font-family: 'Figtree', sans-serif!important;
     display: grid;
     place-items: center;
-    height: 102vh;
+    height: 100vh;
     background-color: var(--color-yellow)!important;
 }
 
